@@ -3,10 +3,10 @@ site_description: Documentação do Ciclo de Vida de Desenvolvimento de Software
 site_author: LEDS
 copyright: Copyright &copy; 2026 LEDS
 
-site_url: https://leds-conectafapes.github.io/processo-leds-sdlc/
+site_url: https://leds-conectafapes.github.io/sdlc/
 
-repo_name: leds-conectafapes/processo-leds-sdlc
-repo_url: https://github.com/leds-conectafapes/processo-leds-sdlc
+repo_name: leds-conectafapes/sdlc
+repo_url: https://github.com/leds-conectafapes/sdlc
 
 extra_css:
   - stylesheets/extra.css

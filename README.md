@@ -2,7 +2,7 @@
 
 Documentação do **Ciclo de Vida de Desenvolvimento de Software (SDLC)** do Laboratório de Extensão em Desenvolvimento de Soluções (LEDS).
 
-📖 **Documentação publicada:** <https://leds-conectafapes.github.io/processo-leds-sdlc/>
+📖 **Documentação publicada:** <https://leds-conectafapes.github.io/sdlc/>
 
 ## Sobre
 
