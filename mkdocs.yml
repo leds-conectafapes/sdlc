@@ -79,9 +79,16 @@ nav:
     - Diagrama BPMN: process/index.md
     - 1. Statement of Work (SOW): sdlc/1_sow.md
     - 2. Discovery: sdlc/2_discovery.md
+    - 2.1 Refinamento da Análise: sdlc/2_1_analysis_cycle.md
+    - 3. Inception: sdlc/3_inception.md
   - Modelos:
     - SOW (Statement of Work): modelos/sow_template.md
     - Benchmarking e Análise Competitiva: modelos/benchmarking_template.md
+    - Discovery:
+      - Visão do Produto: modelos/discovery/product-vision.md
+      - Personas: modelos/discovery/personas.md
+      - Glossário de Conceitos: modelos/discovery/glossario.md
+      - Domínio de Referência: modelos/discovery/domains/NN-dominio-exemplo.md
     - Base de Conhecimento:
       - Visão Geral: modelos/knowledge/overview.md
       - Mapa de Domínios: modelos/knowledge/domain-map.md
