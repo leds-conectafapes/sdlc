@@ -1,4 +1,4 @@
-# Glossário de Conceitos — {NOME_DO_PRODUTO}
+# Glossário de Conceitos — \{NOME_DO_PRODUTO\}
 
 Dicionário central dos conceitos da plataforma. Cada entrada define o termo de forma concisa e aponta para a fonte canônica (módulo, domínio ou ADR) onde ele é detalhado.
 
@@ -27,22 +27,22 @@ Catálogo completo em [personas.md](personas.md). Resumo rápido por agrupamento
 
 ---
 
-## 2. {Seção Temática 2}
+## 2. \{Seção Temática 2\}
 
 {Descreva o agrupamento — ex.: "Instrumentos de Fomento", "Ciclo de Vida do Projeto", "Gestão Financeira".}
 
 | Termo | Definição | Definido em |
 |-------|-----------|-------------|
-| **{Termo A}** | {Definição concisa. Referencie RN ou RI se houver.} | [{Módulo ou Domínio}]({caminho-relativo}) |
-| **{Termo B}** | {Definição concisa.} | [{Módulo ou Domínio}]({caminho-relativo}) |
+| **{Termo A}** | {Definição concisa. Referencie RN ou RI se houver.} | `[{Módulo ou Domínio}]({caminho-relativo})` |
+| **{Termo B}** | {Definição concisa.} | `[{Módulo ou Domínio}]({caminho-relativo})` |
 
 ---
 
-## 3. {Seção Temática 3}
+## 3. \{Seção Temática 3\}
 
 | Termo | Definição | Definido em |
 |-------|-----------|-------------|
-| **{Termo C}** | {Definição concisa.} | [{Módulo ou Domínio}]({caminho-relativo}) |
+| **{Termo C}** | {Definição concisa.} | `[{Módulo ou Domínio}]({caminho-relativo})` |
 
 ---
 
@@ -58,7 +58,7 @@ Catálogo completo em [personas.md](personas.md). Resumo rápido por agrupamento
 
 | Enum | Entidade | Valores | Definido em |
 |------|----------|---------|-------------|
-| **{NomeEnum}** | {Entidade} | `VALOR_A`, `VALOR_B`, `VALOR_C` | [{Módulo}]({caminho-relativo}) |
+| **{NomeEnum}** | {Entidade} | `VALOR_A`, `VALOR_B`, `VALOR_C` | `[{Módulo}]({caminho-relativo})` |
 
 ---
 

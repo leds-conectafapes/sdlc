@@ -11,7 +11,7 @@
 
 ---
 
-## {Grupo 1: ex. Usuários Externos}
+## \{Grupo 1: ex. Usuários Externos\}
 
 {Descreva o agrupamento: quem são, qual sua relação com o sistema.}
 
@@ -24,7 +24,7 @@ A persona base é {X}. Ao {condição}, torna-se {Y}. {Descreva a hierarquia ou 
 
 ---
 
-## {Grupo 2: ex. Instituições}
+## \{Grupo 2: ex. Instituições\}
 
 {Descreva o agrupamento.}
 
@@ -34,7 +34,7 @@ A persona base é {X}. Ao {condição}, torna-se {Y}. {Descreva a hierarquia ou 
 
 ---
 
-## {Grupo 3: ex. Operadores Internos}
+## \{Grupo 3: ex. Operadores Internos\}
 
 {Descreva o agrupamento: servidores, analistas, equipes internas.}
 
@@ -45,7 +45,7 @@ A persona base é {X}. Ao {condição}, torna-se {Y}. {Descreva a hierarquia ou 
 
 ---
 
-## {Grupo 4: ex. Órgãos de Controle}
+## \{Grupo 4: ex. Órgãos de Controle\}
 
 | Persona | Descrição |
 |---------|-----------|
@@ -53,7 +53,7 @@ A persona base é {X}. Ao {condição}, torna-se {Y}. {Descreva a hierarquia ou 
 
 ---
 
-## {Grupo 5: ex. Avaliadores Externos}
+## \{Grupo 5: ex. Avaliadores Externos\}
 
 | Persona | Descrição |
 |---------|-----------|

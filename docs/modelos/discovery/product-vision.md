@@ -19,8 +19,8 @@ Cada domínio define uma capacidade de negócio. Um módulo é a implementação
 
 | # | Domínio | Descrição | Módulos |
 |---|---------|-----------|---------|
-| 01 | [{Nome do Domínio}](domains/01-nome.md) | {Descrição em uma linha} | M001 |
-| 02 | [{Nome do Domínio}](domains/02-nome.md) | {Descrição em uma linha} | M002 |
+| 01 | `[{Nome do Domínio}](domains/01-nome.md)` | {Descrição em uma linha} | M001 |
+| 02 | `[{Nome do Domínio}](domains/02-nome.md)` | {Descrição em uma linha} | M002 |
 
 ---
 
@@ -28,11 +28,11 @@ Cada domínio define uma capacidade de negócio. Um módulo é a implementação
 
 Regras que atravessam múltiplos domínios e não pertencem exclusivamente a nenhum.
 
-### {Nome da Regra}
+### \{Nome da Regra\}
 
 {Descrição da regra: quem está envolvido, qual o fluxo, qual a consequência.}
 
-### {Nome da Regra}
+### \{Nome da Regra\}
 
 {Descrição da regra.}
 

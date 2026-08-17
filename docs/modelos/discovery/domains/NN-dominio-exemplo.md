@@ -1,4 +1,4 @@
-# Domain NN — {Nome do Domínio}
+# Domain NN — \{Nome do Domínio\}
 
 {Descrição em 1–2 linhas: qual capacidade de negócio este domínio representa e qual seu escopo.}
 Glossário dos conceitos centrais em [../glossario.md](../glossario.md).
@@ -7,7 +7,7 @@ Glossário dos conceitos centrais em [../glossario.md](../glossario.md).
 
 ---
 
-## N.1 {Nome da Subseção — ex.: Gestão de Acesso}
+## N.1 \{Nome da Subseção — ex.: Gestão de Acesso\}
 
 {Descrição da capacidade coberta por esta subseção. Inclua contexto de negócio relevante: quem usa, quando, qual o objetivo.}
 
@@ -20,7 +20,7 @@ A entidade percorre os seguintes estados em sequência: **(1) {Estado Inicial}**
 | N.1.1 | {Nome da funcionalidade} | {O que faz, em uma linha} | {Persona} | {Art. X, §Y — ou "—" se não houver} |
 | N.1.2 | {Nome da funcionalidade} | {O que faz, em uma linha} | {Persona} | {Art. X} |
 
-## N.2 {Nome da Subseção}
+## N.2 \{Nome da Subseção\}
 
 {Descrição da capacidade.}
 
