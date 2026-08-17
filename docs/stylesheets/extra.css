@@ -7,3 +7,14 @@
 .md-content li {
     text-align: justify;
 }
+
+/* Diagrama BPMN exportado. Fundo claro fixo: o bpmn.io desenha em preto,
+   que ficaria ilegível sobre o fundo escuro do tema. */
+.bpmn-diagram img {
+    display: block;
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.2rem;
+    padding: 0.8rem;
+}

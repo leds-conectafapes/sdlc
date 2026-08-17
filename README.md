@@ -21,7 +21,18 @@ docs/
 ├── index.md          # Página inicial
 ├── team/             # Estrutura da equipe e organização de times
 ├── sdlc/             # Fases do processo (SOW, Discovery, Inception...)
+├── process/          # Diagrama BPMN do processo (fonte .bpmn + SVG/PNG gerados)
 └── modelos/          # Templates (SOW, Benchmarking, Base de Conhecimento)
+```
+
+## Diagrama BPMN
+
+O modelo do processo fica em `docs/process/process.bpmn` e é a fonte da verdade. Edite-o no [bpmn.io](https://demo.bpmn.io/), no [Camunda Modeler](https://camunda.com/download/modeler/) ou na extensão BPMN Editor do VS Code.
+
+As imagens exibidas no site (`process.svg` e `process.png`) são geradas a partir dele com o [bpmn-to-image](https://github.com/bpmn-io/bpmn-to-image), utilitário oficial do bpmn.io:
+
+```bash
+make bpmn      # Requer Node.js (usa npx)
 ```
 
 ## Como executar localmente
@@ -37,6 +48,7 @@ Outros comandos:
 
 ```bash
 make build     # Gera a versão estática do site (modo strict)
+make bpmn      # Converte docs/process/process.bpmn em SVG e PNG
 make clean     # Remove o ambiente virtual e arquivos temporários
 make help      # Lista todos os comandos disponíveis
 ```
